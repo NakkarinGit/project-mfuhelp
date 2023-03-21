@@ -2,6 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="ยินดีต้อรับสู่ความไม่มีอะไรเลย"/>
+    <h1> Something</h1>
   </div>
 </template>
 
